@@ -1,7 +1,0 @@
-C:\Users\samco\source\repos\formateo de datos c#\bin\Debug\formateo de datos c#.exe.config
-C:\Users\samco\source\repos\formateo de datos c#\bin\Debug\formateo de datos c#.exe
-C:\Users\samco\source\repos\formateo de datos c#\bin\Debug\formateo de datos c#.pdb
-C:\Users\samco\source\repos\formateo de datos c#\obj\Debug\formateo de datos c#.csproj.AssemblyReference.cache
-C:\Users\samco\source\repos\formateo de datos c#\obj\Debug\formateo de datos c#.csproj.CoreCompileInputs.cache
-C:\Users\samco\source\repos\formateo de datos c#\obj\Debug\formateo de datos c#.exe
-C:\Users\samco\source\repos\formateo de datos c#\obj\Debug\formateo de datos c#.pdb
